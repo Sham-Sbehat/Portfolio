@@ -1,19 +1,19 @@
-# 👩‍💻 Sham Sbehat - Personal Portfolio Website
+# 📋 Portfolio Form UI Project
 
-This is my personal portfolio website, designed to showcase my skills, projects, and experience as a front-end and full-stack developer.
+This project is a front-end form interface that simulates a portfolio data entry or user input form. It's designed with clean sections, styled components, and responsive layout.
 
 🔗 **Live Demo:** [shamsbehat-portfolio.netlify.app](https://shamsbehat-portfolio.netlify.app/)
 
 ## 📝 Description
 
-This portfolio highlights:
+The interface includes:
 
-- A modern landing page with a brief introduction.
-- A projects section with links to live demos and GitHub repositories.
-- A contact form to reach out easily.
-- Responsive design suitable for all devices.
+- Input fields for name, experience, skills, and more.
+- Structured layout for entering user or project-related information.
+- Visual hierarchy for better user experience.
+- Clean UI focused on readability and simplicity.
 
-The goal of this project is to provide a clear, professional online presence and allow visitors to explore my work and get in touch with me.
+The project was built to practice UI layout structuring and form styling using Bootstrap and CSS.
 
 ## 🛠️ Built With
 
@@ -23,10 +23,9 @@ The goal of this project is to provide a clear, professional online presence and
 
 ## 📸 Screenshot
 
-![Screenshot](https://i.imgur.com/6sUNeAf.png) 
+![Screenshot](https://i.imgur.com/YOUR_IMAGE_LINK.png) 
 
 ## 💡 Author
 
 **Sham Sbehat**  
-Computer Systems Engineer | Front-End & Full-Stack Developer  
-[Visit Full Portfolio](https://sham-sbehat.github.io/MyPortfolio/)
+[Portfolio](https://sham-sbehat.github.io/MyPortfolio/)
