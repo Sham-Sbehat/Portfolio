@@ -23,7 +23,7 @@ The project was built to practice UI layout structuring and form styling using B
 
 ## 📸 Screenshot
 
-![Screenshot](https://i.imgur.com/YOUR_IMAGE_LINK.png) 
+![Screenshot](https://i.imgur.com/6sUNeAf.png) 
 
 ## 💡 Author
 
