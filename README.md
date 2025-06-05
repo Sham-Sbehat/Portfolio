@@ -19,7 +19,6 @@ The goal of this project is to provide a clear, professional online presence and
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 - **Bootstrap**
 
 ## 📸 Screenshot
